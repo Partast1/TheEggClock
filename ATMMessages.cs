@@ -13,7 +13,7 @@ namespace TheEggClock
         {
             Console.WriteLine("Please wait");
             //Thread.Sleep(2000);
-            
+            //aaaak;k;
         }
         public void PromptMessage()
         {
